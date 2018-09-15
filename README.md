@@ -1,2 +1,2 @@
 # warsawjs-workshop-24-project
-Projekt na warsztaty WarsawJS #24 z testów integracyjnych - grupa 3.
+Project for WarsawJS workshop #24 - integration tests - group 3rd.
